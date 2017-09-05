@@ -1,0 +1,18 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+edu.examples.client.events.CustomerCreatedEvent, true, true, false, false, edu.examples.client.events.CustomerCreatedEvent/3115873326, 3115873326
+edu.examples.client.events.CustomerDeletedEvent, true, true, false, false, edu.examples.client.events.CustomerDeletedEvent/120118123, 120118123
+edu.examples.client.events.CustomerRetrievedEvent, true, true, false, false, edu.examples.client.events.CustomerRetrievedEvent/2128455561, 2128455561
+edu.examples.client.events.CustomerUpdatedEvent, true, true, false, false, edu.examples.client.events.CustomerUpdatedEvent/3137600457, 3137600457
+edu.examples.client.events.DataEvent, true, true, false, false, edu.examples.client.events.DataEvent/2583146542, 2583146542
+edu.examples.client.events.ErrorEvent, true, true, false, false, edu.examples.client.events.ErrorEvent/2682485169, 2682485169
+edu.examples.client.model.Customer, true, true, true, true, edu.examples.client.model.Customer/2946049899, 2946049899
+edu.examples.client.service.ExampleService, false, false, false, false, _, 2311892670
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Long, true, true, true, true, java.lang.Long/4227064769, 4227064769
+java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131

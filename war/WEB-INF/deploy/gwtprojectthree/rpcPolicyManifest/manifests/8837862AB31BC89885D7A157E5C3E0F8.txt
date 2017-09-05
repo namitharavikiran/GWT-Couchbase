@@ -1,0 +1,2 @@
+serviceClass: edu.examples.client.service.ExampleService
+path: 15130DEF4ECF240CD82973A32003EDDC.gwt.rpc

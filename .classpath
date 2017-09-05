@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.gwtplugins.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/rvijaya/.m2/repository/com/couchbase/client/java-client/2.2.8/java-client-2.2.8.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.couchbase.client"/>
+			<attribute name="maven.artifactId" value="java-client"/>
+			<attribute name="maven.version" value="2.2.8"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/rvijaya/.m2/repository/com/couchbase/client/core-io/1.2.9/core-io-1.2.9.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.couchbase.client"/>
+			<attribute name="maven.artifactId" value="core-io"/>
+			<attribute name="maven.version" value="1.2.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Namitha/Java2017/JavaSamples/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Namitha/Java2017/JavaSamples/rxjava-1.3.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

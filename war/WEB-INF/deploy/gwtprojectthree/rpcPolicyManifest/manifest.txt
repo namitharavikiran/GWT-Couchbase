@@ -1,0 +1,3 @@
+# Module gwtprojectthree
+# RPC service class, partial path of RPC policy file
+edu.examples.client.service.ExampleService, 15130DEF4ECF240CD82973A32003EDDC.gwt.rpc
